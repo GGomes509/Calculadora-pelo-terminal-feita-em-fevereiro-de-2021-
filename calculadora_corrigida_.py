@@ -1,18 +1,4 @@
-# Aluno: Gabriel Gomes de Sousa 
-
-# RA: 72100111 
-
-# Curso: Algoritmos e Légica de PRogramação -Turma C - 0121 - Virtual - ini: 22/02/2021 
-
-# Professor: Marcelo Carboni Gomes 
-
-  
-
 caixa = []  # Aqui ficar os valores em MS 
-
-  
-
-  
 
 def calculadora(): 
 
